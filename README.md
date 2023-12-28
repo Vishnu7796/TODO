@@ -12,7 +12,7 @@ grapql
 photo upload
 
 
-Setup
+##Setup
 
 Flask
 1) Install requirements
@@ -34,3 +34,6 @@ Keycloak
 
 Once this all is done, hit below url in browser
 `http://localhost:3000/`
+
+Note:
+If at all getting error `keycloak can have only one instance` check url or refresh the page
